@@ -3,8 +3,11 @@
 ## Description
 
 This project allowed me to use my experience to help "Horiseon" website be more user friendly. 
+
 In this project I focused on helping Horiseon's website tackle the accesibilty standards by adding semantic HTML elements to the code's structure and 'ALT' attributes to the images used, achieving a more broad user friendly interface. 
+
 It is very important for websites to include ALT attributes to every image, in case people need to use some of the assistance offered in websites to describe the content of the image. 
+
 Semantic HTML elements inside the code's structure play an important role for further collaborations and organized code. 
 
 ## Installation
