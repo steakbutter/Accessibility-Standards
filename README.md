@@ -16,7 +16,8 @@ N/A
 
 ## Usage
 
-N/A
+To access Horiseon website click on the following link:
+https://steakbutter.github.io/Accessibility-Standards/#social-media-marketing
 
 ## Credits
 For a better understanding on semantic HTML elements and structure, I used this webpage and youtube video:
